@@ -1,0 +1,3 @@
+package mocktest
+
+type API
